@@ -1,0 +1,33 @@
+C:\Users\ASUS\Desktop\grafica\grafica\bin\Debug\netcoreapp3.1\grafica.exe
+C:\Users\ASUS\Desktop\grafica\grafica\bin\Debug\netcoreapp3.1\grafica.deps.json
+C:\Users\ASUS\Desktop\grafica\grafica\bin\Debug\netcoreapp3.1\grafica.runtimeconfig.json
+C:\Users\ASUS\Desktop\grafica\grafica\bin\Debug\netcoreapp3.1\grafica.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\grafica\grafica\bin\Debug\netcoreapp3.1\grafica.dll
+C:\Users\ASUS\Desktop\grafica\grafica\bin\Debug\netcoreapp3.1\grafica.pdb
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.Grafica.resources
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.dll
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.pdb
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\grafica\grafica\obj\Debug\netcoreapp3.1\grafica.Properties.Resources.resources
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\bin\Debug\netcoreapp3.1\grafica.exe
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\bin\Debug\netcoreapp3.1\grafica.deps.json
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\bin\Debug\netcoreapp3.1\grafica.runtimeconfig.json
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\bin\Debug\netcoreapp3.1\grafica.runtimeconfig.dev.json
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\bin\Debug\netcoreapp3.1\grafica.dll
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\bin\Debug\netcoreapp3.1\grafica.pdb
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.csproj.AssemblyReference.cache
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.Grafica.resources
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.Properties.Resources.resources
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.csproj.GenerateResource.cache
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.AssemblyInfoInputs.cache
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.AssemblyInfo.cs
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.dll
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.pdb
+C:\Users\damia\Desktop\planillas_version estable_c#\grafica\obj\Debug\netcoreapp3.1\grafica.genruntimeconfig.cache
