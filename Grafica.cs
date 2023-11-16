@@ -139,6 +139,5 @@ namespace grafica
         {
             planilla1.Guardarplanilla();
         }
-
     }
 }

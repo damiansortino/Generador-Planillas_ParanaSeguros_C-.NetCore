@@ -176,6 +176,7 @@ namespace grafica
             // 
             this.total_label.AutoSize = true;
             this.total_label.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.total_label.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.total_label.Location = new System.Drawing.Point(613, 40);
             this.total_label.Name = "total_label";
             this.total_label.Size = new System.Drawing.Size(48, 23);
@@ -186,6 +187,7 @@ namespace grafica
             // 
             this.cuota_label.AutoSize = true;
             this.cuota_label.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.cuota_label.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.cuota_label.Location = new System.Drawing.Point(502, 39);
             this.cuota_label.Name = "cuota_label";
             this.cuota_label.Size = new System.Drawing.Size(98, 23);
@@ -196,6 +198,7 @@ namespace grafica
             // 
             this.importe_label.AutoSize = true;
             this.importe_label.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.importe_label.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.importe_label.Location = new System.Drawing.Point(366, 39);
             this.importe_label.Name = "importe_label";
             this.importe_label.Size = new System.Drawing.Size(113, 23);
@@ -206,6 +209,7 @@ namespace grafica
             // 
             this.endoso_label.AutoSize = true;
             this.endoso_label.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.endoso_label.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.endoso_label.Location = new System.Drawing.Point(269, 40);
             this.endoso_label.Name = "endoso_label";
             this.endoso_label.Size = new System.Drawing.Size(113, 23);
@@ -216,6 +220,7 @@ namespace grafica
             // 
             this.poliza_label.AutoSize = true;
             this.poliza_label.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.poliza_label.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.poliza_label.Location = new System.Drawing.Point(119, 39);
             this.poliza_label.Name = "poliza_label";
             this.poliza_label.Size = new System.Drawing.Size(100, 23);
@@ -226,6 +231,7 @@ namespace grafica
             // 
             this.rama_label.AutoSize = true;
             this.rama_label.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.rama_label.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.rama_label.Location = new System.Drawing.Point(34, 39);
             this.rama_label.Name = "rama_label";
             this.rama_label.Size = new System.Drawing.Size(48, 23);

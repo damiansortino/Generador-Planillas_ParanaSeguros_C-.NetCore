@@ -42,6 +42,30 @@ namespace grafica
             MessageBox.Show("Su planilla ha sido generada con éxito");
         }
 
+        public void Guardarplanilla2(string path)
+        {
+            
+            TextWriter Escribe = new StreamWriter(path+"planilla_nueva.csv");
+
+            //encabezado de planilla
+            Escribe.WriteLine("rama;poliza;endoso;importe;cuota");
+
+            //resto del documento
+
+
+            for (int i = 0; i < this.recibos.Count; i++)
+            {
+                Escribe.WriteLine(this.recibos[i].rama + ";" + this.recibos[i].poliza + ";" +
+                    this.recibos[i].endoso + ";" + this.recibos[i].importe + ";" + this.recibos[i].cuota);
+
+            }
+
+
+            Escribe.Close();
+            MessageBox.Show("Su planilla ha sido generada con éxito");
+        }
+
+
         public void addRecibo(Recibo rec)
         {
             recibos.Add(rec);
